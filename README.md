@@ -1,3 +1,6 @@
+## Running the App
+Run the streamlit_run.bat file with the proper venv set up and requirements satisfied
+
 # Rag-papers
 
 -> Using Reciprocal rank fusion to answer questions related to 5 research papers that are loaded in as vector stores
