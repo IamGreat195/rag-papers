@@ -1,5 +1,5 @@
 ## Running the App
-Run the streamlit_run.bat file with the proper venv set up and requirements satisfied
+Run the streamlit_run.bat file with the proper venv set up and requirements satisfied OR just do streamlit run <filename> in terminal
 
 # Rag-papers
 
